@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IRC Client</string>
+    <string name="select_or_add_a_server">Select or add a Server</string>
+    <string name="title_activity_add_server">AddServerActivity</string>
+    <string name="title_activity_connect">ConnectActivity</string>
+</resources>
